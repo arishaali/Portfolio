@@ -59,9 +59,9 @@ This project demonstrates my practical knowledge of automation testing using **P
 👉 [View CURA Automation Project]([https://github.com/your-username/Cura-Healthcare-Automation](https://github.com/arishaali/PythonSeleniumAutomation)) *(replace with actual link)*
 
 ### Certificates
-[QA Fundamentals](https://drive.google.com/file/d/1EhQTTHOVIKL8nnpfdHlTmEK1ZCgm-FWJ/view?usp=drive_link)
-[Introduction to API Testing With Postman](https://drive.google.com/file/d/1ERWu93_sYH5lDgQ4w1gSC4dJw_OxYQ-Y/view?usp=sharing)
-[Selenium With Python](https://drive.google.com/file/d/1EhQTTHOVIKL8nnpfdHlTmEK1ZCgm-FWJ/view?usp=drive_link)
+- [QA Fundamentals](https://drive.google.com/file/d/1EhQTTHOVIKL8nnpfdHlTmEK1ZCgm-FWJ/view?usp=drive_link)
+- [Introduction to API Testing With Postman](https://drive.google.com/file/d/1ERWu93_sYH5lDgQ4w1gSC4dJw_OxYQ-Y/view?usp=sharing)
+- [Selenium With Python](https://drive.google.com/file/d/1EhQTTHOVIKL8nnpfdHlTmEK1ZCgm-FWJ/view?usp=drive_link)
 
 
 
