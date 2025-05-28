@@ -4,21 +4,22 @@ Hi, I'm Arisha Ali – a career switcher from UI/UX design to Software Testing.
 This portfolio shows my journey into QA, showcasing my manual testing work, bug reports, and ongoing automation learning in Python.
 
 ### Tools
--Slack
--Asana
--JIRA
--Excel
--Google Sheets
--Chrome Devtools
--Google Drive
--Git
--Github
--Postman
--Selenium
--Visual Studio Code
--MySQL
--Xampp
--Testrail
+- Slack
+- Asana
+- JIRA
+- Excel
+- Google Sheets
+- Chrome Devtools
+- Google Drive
+- Git
+- Github
+- Postman
+- Selenium
+- Visual Studio Code
+- MySQL
+- Testrail
+- Xampp
+
 
 ### Skills
 - Software testing
@@ -39,5 +40,25 @@ This portfolio shows my journey into QA, showcasing my manual testing work, bug 
 - Basic & Data-Driven API Testing
 - Postman Collections (.json)
 - CRUD operations with dynamic variables
+
+### CURA Healthcare – Automation Testing Project
+
+This project demonstrates my practical knowledge of automation testing using **Python**, **Selenium WebDriver**, and **Pytest**. The test scripts are written for the demo web application [CURA Healthcare Service](https://katalon-demo-cura.herokuapp.com/)
+
+🔹 **What I Did**  
+- Developed a structured automation suite using **Page Object Model (POM)**
+- Automated critical workflows: login, appointment booking, and logout
+- Created reusable test components with fixtures using `conftest.py`
+- Ran tests using **Pytest**, and validated flow and element interactions
+
+🔹 **Skills Applied**  
+- Python + Selenium WebDriver  
+- Pytest Framework  
+
+🔹 **Repo Link**  
+👉 [View CURA Automation Project]([https://github.com/your-username/Cura-Healthcare-Automation](https://github.com/arishaali/PythonSeleniumAutomation)) *(replace with actual link)*
+
+
+
 
 
