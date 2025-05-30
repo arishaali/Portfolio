@@ -56,7 +56,7 @@ This project demonstrates my practical knowledge of automation testing using **P
 - Pytest Framework  
 
 🔹 **Repo Link**  
-👉 [View CURA Automation Project]([https://github.com/your-username/Cura-Healthcare-Automation](https://github.com/arishaali/PythonSeleniumAutomation)
+👉 [View CURA Automation Project][https://github.com/arishaali/PythonSeleniumAutomation](https://github.com/arishaali/PythonSeleniumAutomation)
 
 ### Certificates
 - [QA Fundamentals](https://drive.google.com/file/d/1EhQTTHOVIKL8nnpfdHlTmEK1ZCgm-FWJ/view?usp=drive_link)
